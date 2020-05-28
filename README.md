@@ -39,6 +39,6 @@ A Licença em uso é a CC0-1.0, podendo ser vista no arquivo LICENSE, que pode s
 Ultimas alterações nos termos: 16:02 - 28/05/2020\
 Ultimas alterações nas Captura de Informações: 16:02 - 28/05/2020\
 Ultimas alterações nas Expiração de Informações: 16:02 - 28/05/2020\
-Ultimas alterações na Licença: 16:02 - 28/05/2020\
+Ultimas alterações na Licença: 16:02 - 28/05/2020
 
 by Lybo Development BRA
