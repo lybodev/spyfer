@@ -1,7 +1,7 @@
 # Spyfer
 
 ------------
-![](https://img.shields.io/badge/discord.js--selfbot-1.0.0-brightgreen) ![](https://img.shields.io/badge/node--fetch-2.6.0-brightgreen) ![](https://img.shields.io/badge/cryptolens-1.0.2-brightgreen)\
+![](https://img.shields.io/badge/discord.js--selfbot-1.0.0-brightgreen) ![](https://img.shields.io/badge/node--fetch-2.6.0-brightgreen) ![](https://img.shields.io/badge/cryptolens-1.0.2-brightgreen)
 
 Um bot focado em moderação das mensagens de forma fácil e rápida pela moderação
 
