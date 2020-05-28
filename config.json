@@ -1,0 +1,9 @@
+{
+    "token": "Token do BOT",
+    "idBot": "ID do BOT",
+    "idGrupoLOG": "ID do Grupo em que as mensagens vão ser enviadas",
+    "idGrupoAlvo": "ID do Grupo que as mensagens vão ser pegas",
+    "idCanalLOG": "ID do Canal do Grupo que as mensagens vão ser enviados",
+    "key": "LNJJS-GEFVZ-WHIRX-KBVQF",
+    "_comment": "Não altere a Key"
+}
