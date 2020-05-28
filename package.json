@@ -1,0 +1,24 @@
+{
+  "name": "spyfer",
+  "version": "1.0.0",
+  "description": "Projeto focado na moderação de mensagens de usuários e outros afins não endossados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lybodev/spyfer.git"
+  },
+  "author": "Vylux, Distributed by Lybo Development BRA",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/lybodev/spyfer/issues"
+  },
+  "homepage": "https://github.com/lybodev/spyfer#readme",
+  "dependencies": {
+    "cryptolens": "^1.0.2",
+    "discord.js-selfbot": "^12.0.2",
+    "node-fetch": "^2.6.0"
+  }
+}
