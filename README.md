@@ -12,7 +12,7 @@ Um bot focado em moderação das mensagens de forma fácil e rápida pela modera
 `cd spyfer`\
 `npm i node-fetch`\
 `npm i cryptolens`\
-`npm i discord.js-selfbot`\
+`npm i discord.js-selfbot`
 
 ------------
 
